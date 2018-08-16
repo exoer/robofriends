@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["asset-manifest.json","3342c6cb9237a2ddab4571f232c8ba53"],["favicon.ico","c92b85a5b907c70211f4ec25e29a8c4a"],["index.html","7d3805feba65954d0aeb815e93897596"],["manifest.json","a30758a8c7b71bbc2ac9a632220ac955"],["static/css/main.e891cc55.css","db1c41c8fa25cc24a137aa4ef34c0e90"],["static/js/main.fe9a7c5c.js","cfbfe81dd0b1fc67c5ee2a22faa09e12"],["static/media/SEGA.12a3db8b.woff","12a3db8ba7f5423327bb12aed3c41977"]];
+var precacheConfig = [["android-chrome-192x192.png","27449bae42965aa800e9ba62dadc9cde"],["apple-touch-icon.png","2a17083edaa96d5cc2d7403d138005b3"],["asset-manifest.json","16971ba52f1f39bcba60b04b76ce7448"],["browserconfig.xml","a493ba0aa0b8ec8068d786d7248bb92c"],["favicon-16x16.png","deedecebf91c2b44e26a09d26ae686d4"],["favicon-32x32.png","cd409f2ff4d16fb93b5644ed1b80dbe5"],["favicon.ico","acd9f54a5acb128acd79ff5f38a76c02"],["index.html","65a7595cb6b13da4c7954b61cedc6d8e"],["manifest.json","a30758a8c7b71bbc2ac9a632220ac955"],["mstile-150x150.png","610be1bcdf95075fbab00bce4d731c5d"],["safari-pinned-tab.svg","1d3d01fe8aad2515a2b039f2a933e822"],["site.webmanifest","c2f552420ee251e4422ca9294463ba95"],["static/css/main.e891cc55.css","db1c41c8fa25cc24a137aa4ef34c0e90"],["static/js/main.7a3c003e.js","31a523aed610e5483054da84a2fb8e11"],["static/media/SEGA.12a3db8b.woff","12a3db8ba7f5423327bb12aed3c41977"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
